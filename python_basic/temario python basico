@@ -1,0 +1,51 @@
+Aquí tienes un temario de Python básico dividido por semanas, junto con ejercicios para practicar:
+
+Semana 1:
+
+    Introducción a Python
+    Variables y tipos de datos
+    Operadores aritméticos y de asignación
+
+Ejercicio: Escribir un programa que tome dos números ingresados por el usuario y muestre la suma de ambos.
+
+Semana 2:
+
+    Estructuras de control: condicionales (if-else)
+    Estructuras de datos: listas y tuplas
+    Bucles: while loop
+
+Ejercicio: Escribir un programa que solicite al usuario una lista de números y muestre el mayor número de la lista.
+
+Semana 3:
+
+    Bucles: for loop
+    Funciones y argumentos
+    Manejo de cadenas (strings)
+
+Ejercicio: Escribir una función que reciba una cadena de texto y devuelva la misma cadena pero invertida.
+
+Semana 4:
+
+    Manejo de archivos
+    List comprehension
+    Módulos y bibliotecas
+
+Ejercicio: Escribir un programa que lea un archivo de texto, cuente la cantidad de palabras y muestre el resultado.
+
+Semana 5:
+
+    Diccionarios
+    Excepciones
+    Programación orientada a objetos (POO)
+
+Ejercicio: Crear una clase llamada "Persona" con atributos como nombre, edad y dirección. Luego, crear instancias de esta clase y mostrar la información de cada persona.
+
+Semana 6:
+
+    Métodos de clase y de instancia
+    Herencia y polimorfismo
+    Módulos personalizados
+
+Ejercicio: Crear una clase "Vehículo" y subclases como "Automóvil" y "Motocicleta". Implementar métodos específicos para cada clase y mostrar su funcionamiento.
+
+Recuerda que este es solo un ejemplo de temario y ejercicios, puedes adaptarlo y ampliarlo según tus necesidades y ritmo de aprendizaje. Además, es importante practicar regularmente y buscar recursos adicionales como tutoriales, ejercicios en línea y proyectos prácticos para fortalecer tus habilidades en Python.

@@ -1,0 +1,45 @@
+Aquí tienes un temario de Python desde nivel intermedio hasta avanzado, dividido por semanas, junto con ejercicios para practicar:
+
+Semana 1:
+
+    Repaso de conceptos básicos de Python, como variables, tipos de datos y estructuras de control
+    Uso de funciones y parámetros
+
+Ejercicio: Crear una función que calcule el área de diferentes figuras geométricas, como círculos, rectángulos y triángulos.
+
+Semana 2:
+
+    Trabajo con módulos y paquetes en Python
+    Importación y uso de bibliotecas externas
+
+Ejercicio: Crear un programa que utilice la biblioteca matplotlib para generar gráficos a partir de datos proporcionados.
+
+Semana 3:
+
+    Manejo de excepciones y errores en Python
+    Uso de try-except para manejar excepciones
+
+Ejercicio: Crear una calculadora básica que maneje errores y excepciones al realizar operaciones matemáticas.
+
+Semana 4:
+
+    Trabajo con archivos en Python: lectura y escritura de archivos
+    Uso de operaciones de archivos, como lectura de líneas y escritura de datos
+
+Ejercicio: Crear un programa que lea un archivo de texto, realice alguna manipulación de los datos y luego escriba los resultados en otro archivo.
+
+Semana 5:
+
+    Programación orientada a objetos en Python
+    Creación de clases, métodos y atributos
+
+Ejercicio: Crear una aplicación de gestión de empleados utilizando programación orientada a objetos, donde se puedan agregar, eliminar y buscar empleados.
+
+Semana 6:
+
+    Uso de bases de datos en Python, como SQLite o MySQL
+    Conexión y manipulación de datos en una base de datos
+
+Ejercicio: Crear una aplicación que interactúe con una base de datos para almacenar y recuperar información de usuarios.
+
+Recuerda que este es solo un ejemplo de temario y ejercicios, puedes adaptarlo y ampliarlo según tus necesidades y ritmo de aprendizaje. Además, es importante practicar regularmente, explorar proyectos prácticos y seguir aprendiendo de recursos adicionales, como documentación oficial, tutoriales y ejemplos de código avanzados de Python.
